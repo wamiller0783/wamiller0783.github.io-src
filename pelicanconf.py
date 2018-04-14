@@ -28,7 +28,7 @@ LINKS = (('My LinkedIn', 'https://www.linkedin.com/in/william-miller-88a37b159/'
 # Social widget
 SOCIAL = ()
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 1
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
